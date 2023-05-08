@@ -1,3 +1,3 @@
 # Ignite Shop
 
-Projeto desenvolvido durante as aulas na trilha de Reactjs da Rocketseat.
+Projeto da trilha de Reactjs do Ignite da Rocketseat.
